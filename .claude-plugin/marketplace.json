@@ -1,0 +1,17 @@
+{
+  "name": "dizk",
+  "owner": {
+    "name": "Didrik Aspeng Rognstad",
+    "url": "https://github.com/dizk"
+  },
+  "description": "Didrik's agent skills as an installable Claude Code plugin.",
+  "plugins": [
+    {
+      "name": "dizk-skills",
+      "source": "./",
+      "description": "Didrik's agent skills.",
+      "category": "writing",
+      "keywords": ["skills", "writing", "norwegian"]
+    }
+  ]
+}

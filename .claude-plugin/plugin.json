@@ -1,0 +1,15 @@
+{
+  "name": "dizk-skills",
+  "version": "1.0.0",
+  "description": "Didrik's agent skills.",
+  "author": {
+    "name": "Didrik Aspeng Rognstad",
+    "url": "https://github.com/dizk"
+  },
+  "repository": "https://github.com/dizk/skills",
+  "license": "MIT",
+  "keywords": ["skills", "writing", "norwegian"],
+  "skills": [
+    "./skills/writing/enkel-norsk"
+  ]
+}
